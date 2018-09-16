@@ -16,6 +16,9 @@ e. comparator
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 
   new Comparator Animal
+  
     Class definition of comparator 
+    
    public int compare(Animal a, Animal b){
+   
 			    return a.getLegs() - b.getLegs(); }
