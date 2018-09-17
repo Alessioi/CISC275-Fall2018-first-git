@@ -3,21 +3,23 @@
 
 2. What five objects are created in the main?
 
-a. The arraylist
+a. The arraylist of dogs 
 
-b. first dog added
+b. first dog added, Fido, 4 legs
 
-c. second dog added
+c. second dog added, Fido, 3 legs
 
-d. third dog added
+d. third dog added, Alfie, 4 legs 
 
-e. comparator 
+e. The comparator 
 
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 
-  new Comparator Animal
+Around the middle of the main, the comparator constructor can be seen. 
+
+  new Comparator Animal 
   
-    Class definition of comparator 
+    @Override
     
    public int compare(Animal a, Animal b){
    
