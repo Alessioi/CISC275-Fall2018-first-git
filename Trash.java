@@ -5,7 +5,9 @@ public class Trash extends Entities{
 	int y;
 	boolean isCaught;
 	
-	public Trash() {}
+	public Trash() {
+      randHeight();
+   }
 	
 	public boolean isCaught() {
 		return true;
