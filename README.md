@@ -1,0 +1,4 @@
+# project-fall-2018-team-11-6
+Alessio Iccari, Dane Malanoski, Jenny Cox, Gabe Corella, Cara Eppes 
+
+Estuary Expedition -- an educational game where players will help Eddie the Educator, Rachel the Researcher, and Stew the Steward at one of Delaware's estuaries.  Eddie introduces the player to a new piece of land acquired by the DNERR.  The player learns about species that are native to Delaware's estuaries and specific research tasks by helping Rachel catch and measure fish.  Then, the player assists Stew in creating a habitat map of the animals living in the estuary.  Eddie creates a report of all of the data and gives the player a score based on the different animals they discovered.  Players can try to improve their score and position on the leaderboard by catching and measuring more fish and developing a more extensive habitat map.
