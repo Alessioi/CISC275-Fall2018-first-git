@@ -5,7 +5,16 @@ public class HorseshoeCrab extends Animal{
 	Double length;
 	boolean isCaught;
 	
-	public HorseshoeCrab() {}
-	public HorseshoeCrab(int weight, int length) {}
+	public HorseshoeCrab() {
+      this.weight = randDouble();
+      this.length = randDouble();
+      name = "Horsecrab";
+   }
+	public HorseshoeCrab(double weight, double length) {
+      this.weight = weight;
+      this.length = length;
+      randDirect();
+      name = "Horsecrab";
+   }
 	
 }
